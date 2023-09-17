@@ -1,4 +1,4 @@
-create-betternext-template
+# create-betternext-template
 
 Create Better Next Template is a project template designed to streamline the process of starting a new application. It provides a solid foundation by integrating various tools and libraries to enhance your development workflow. This template includes pre-made components from the shadcn-ui library, utilizes Supabase for database and authentication, uses React-Query for sending requests, and employs Zod for form validation. Additionally, it comes pre-configured with Tailwind CSS for styling.
 Features
