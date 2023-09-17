@@ -18,7 +18,7 @@ To create a new project using this template, follow these steps:
 
 ### Change to the project directory:
 
-    cd create-betternext-template
+    cd better-next-template
 
 ### Install the project dependencies:
 
