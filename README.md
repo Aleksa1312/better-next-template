@@ -14,7 +14,7 @@ To create a new project using this template, follow these steps:
 
 ### Clone this repository to your local machine:
 
-    git clone https://github.com/your-username/create-betternext-template.git
+    git clone https://github.com/Aleksa1312/better-next-template.git
 
 ### Change to the project directory:
 
