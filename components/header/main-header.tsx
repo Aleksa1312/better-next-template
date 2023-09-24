@@ -6,9 +6,9 @@ export default function MainHeader() {
   return (
     <header className="sticky left-0 top-0 h-16 w-full">
       <div className="drop-shadow-black h-full w-full border-b border-border bg-background/50 drop-shadow-lg backdrop-blur-sm">
-        <div className="relative flex h-full w-full flex-row items-center justify-between p-5">
+        <div className="flex h-full w-full flex-row items-center justify-between p-5">
           <LogoLink href="/" />
-          <HeaderNavigation className="absolute left-0 right-0 mx-auto w-fit" />
+          <HeaderNavigation className="" />
           <ButtonLink href="/pricing">View Options</ButtonLink>
         </div>
       </div>
